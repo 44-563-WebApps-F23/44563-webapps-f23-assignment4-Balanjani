@@ -1,0 +1,43 @@
+/* Speech class for spoken text */
+.speech {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: black;
+}
+
+/* Direction class for non-spoken directions */
+.direction {
+    font-family: Times New Roman, serif;
+    font-size: 14px;
+    color: black;
+    background-color: lightgray;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+/* Hover effect for directions */
+.direction:hover {
+    background-color: lightblue;
+    color: white;
+}
+
+/* Character name styles */
+.MRS.ALVING {
+    color: blue;
+}
+
+._Velbekomme_ {
+    color: green;
+}
+
+.Mr.Manders {
+    color: purple;
+}
+
+.OSWALD {
+    color: yellowgreen;
+}
+
+.REGINA {
+    color: burlywood;
+}
+
